@@ -22,8 +22,8 @@ concentrated formula or can be diluted with water
 from the mains.
 
 #### Model Created and Developed by Team Abhikalpana
-###### Spandan Saxena
-###### Shrish Sharma
+###### (https://github.com/the-rebooted-coder)Spandan Saxena
+###### (https://github.com/shrish-sharma-git) Shrish Sharma
 ###### Shubham Kumar Munjani
 ###### Lokesh Pandey
 ###### Kamesh Parashar
