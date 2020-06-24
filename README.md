@@ -26,7 +26,7 @@ from the mains.
 #### Model Created and Developed by Team Abhikalpana
 ###### [Spandan Saxena](https://github.com/the-rebooted-coder)
 ###### [Shrish Sharma](https://github.com/shrish-sharma-git)
-###### Shubham Kumar Munjani
+###### [Shubham Kumar Munjani](https://github.com/munjanishubham)
 ###### Lokesh Pandey
 ###### Kamesh Parashar
 ###### Ganesh Adavkar
