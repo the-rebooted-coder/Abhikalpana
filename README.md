@@ -1,5 +1,7 @@
 # Abhikalpana
 ## SANITISATION FACILITY
+![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ### CADAction Model
 ##### Jaypee University of Engineering & Technology
 
