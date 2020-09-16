@@ -28,5 +28,5 @@ from the mains.
 ###### [Shrish Sharma](https://github.com/shrish-sharma-git)
 ###### [Shubham Kumar Munjani](https://github.com/munjanishubham)
 ###### [Lokesh Pandey](https://github.com/Lokithegreat)
-###### Kamesh Parashar
+###### [Kamesh Parashar](https://github.com/xKameshx)
 ###### Ganesh Adavkar
