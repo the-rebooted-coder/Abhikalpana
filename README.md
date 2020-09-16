@@ -27,6 +27,6 @@ from the mains.
 ###### [Spandan Saxena](https://github.com/the-rebooted-coder)
 ###### [Shrish Sharma](https://github.com/shrish-sharma-git)
 ###### [Shubham Kumar Munjani](https://github.com/munjanishubham)
-###### Lokesh Pandey
+###### [Lokesh Pandey](https://github.com/Lokithegreat)
 ###### Kamesh Parashar
 ###### Ganesh Adavkar
